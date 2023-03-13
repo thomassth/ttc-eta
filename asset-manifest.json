@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ttc-eta/static/css/main.7996876d.css",
-    "main.js": "/ttc-eta/static/js/main.5aa371c9.js",
+    "main.css": "/ttc-eta/static/css/main.e48bfa93.css",
+    "main.js": "/ttc-eta/static/js/main.898c8523.js",
     "static/js/496.fbea8424.chunk.js": "/ttc-eta/static/js/496.fbea8424.chunk.js",
     "service-worker.js": "/ttc-eta/service-worker.js",
     "index.html": "/ttc-eta/index.html",
-    "main.7996876d.css.map": "/ttc-eta/static/css/main.7996876d.css.map",
-    "main.5aa371c9.js.map": "/ttc-eta/static/js/main.5aa371c9.js.map",
+    "main.e48bfa93.css.map": "/ttc-eta/static/css/main.e48bfa93.css.map",
+    "main.898c8523.js.map": "/ttc-eta/static/js/main.898c8523.js.map",
     "496.fbea8424.chunk.js.map": "/ttc-eta/static/js/496.fbea8424.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7996876d.css",
-    "static/js/main.5aa371c9.js"
+    "static/css/main.e48bfa93.css",
+    "static/js/main.898c8523.js"
   ]
 }
